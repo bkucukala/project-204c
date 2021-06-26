@@ -1,4 +1,4 @@
-# Project-202: Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL
+# Project-204: Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL
 
 ## Description
 
@@ -6,7 +6,7 @@ This project aims to deploy the Phonebook Application web application with Docke
 
 ## Problem Statement
 
-![Project_202](project-202.png)
+![Project_203](project-203.png)
 
 - Your company has recently started a project that aims to serve as phonebook web application. Your teammates have started to work on the project and developed the UI and backend part of the project and they need your help to deploy the app in development environment.
 
@@ -96,7 +96,7 @@ This project aims to deploy the Phonebook Application web application with Docke
 ## Project Skeleton
 
 ```text
-202-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql (folder)
+204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql (folder)
 |
 |----readme.md            # Given to the students (Definition of the project)
 |----cfn-template.yml     # To be delivered by students (Cloudformation template)
